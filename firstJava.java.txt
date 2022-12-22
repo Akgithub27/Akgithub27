@@ -3,5 +3,10 @@ Public class firstJava
 	public static void main(String args[])
 	{
 		System.out.println("Hello World program");
+		int a =10;
+		for(int i=0;i<100;i++)
+		{
+			sysout(i);
+		}
 	}
 }
