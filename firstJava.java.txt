@@ -3,5 +3,6 @@ Public class firstJava
 	public static void main(String args[])
 	{
 		System.out.println("Hello World program");
+		system.out.Println("From master","Please add these changes");
 	}
 }
