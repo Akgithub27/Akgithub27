@@ -84,7 +84,7 @@ Full-stack system designed to streamline **event organization and registrations*
 - Backend REST APIs integrated with React frontend
 
 🔗 GitHub Repository  
-https://github.com/Akgithub27
+[https://github.com/Akgithub27](https://github.com/Akgithub27/event_management_system_project.git)
 
 ---
 
@@ -100,7 +100,7 @@ Full-stack application to **digitize academic assessments**
 - RESTful API backend with relational database storage
 
 🔗 GitHub Repository  
-https://github.com/Akgithub27
+[https://github.com/Akgithub27](https://github.com/Akgithub27/Online_quiz_application.git)
 
 ---
 
@@ -116,7 +116,7 @@ Full-stack property listing system allowing customers to manage real estate list
 - Advanced property **search and filter by location and price**
 
 🔗 GitHub Repository  
-https://github.com/Akgithub27
+[https://github.com/Akgithub27](https://github.com/Akgithub27/real_estate_listing_platform.git)
 
 ---
 
